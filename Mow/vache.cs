@@ -22,8 +22,6 @@ namespace Mow
         /// De 0 à 5
         /// </summary>
         public virtual int nb_mouches { get; private set; }
-        
-        public virtual ImageSource Portrait { get; private set; }
 
         /// <summary>
         /// Indique la catégorie de vache à laquelle correspond la carte
